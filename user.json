@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "5f38",
+      "fullName": "Mayur B ",
+      "surname": "Sarode",
+      "dateOfBirth": "1997-09-29",
+      "email": "mayursarode333@gmail.com",
+      "loginId": "Mayur123",
+      "password": "Mayur@123",
+      "confirmPassword": "Mayur@123",
+      "mobileNumber": "8625912664",
+      "role": "User"
+    },
+    {
+      "id": "6707",
+      "fullName": "Dominic ",
+      "surname": "Toretto",
+      "dateOfBirth": "1999-01-01",
+      "email": "admin@123gmail.com",
+      "loginId": "Admin@123",
+      "password": "Admin@123",
+      "confirmPassword": "Admin@123",
+      "mobileNumber": "1234567890",
+      "role": "Admin"
+    },
+    {
+      "id": "01e9",
+      "fullName": "Abhay Patil",
+      "surname": "Patil",
+      "dateOfBirth": "1997-10-03",
+      "email": "abhay@gmail.com",
+      "loginId": "Abhay@123",
+      "password": "Abhay@123",
+      "confirmPassword": "Abhay@123",
+      "mobileNumber": "0789856547",
+      "role": "User"
+    }
+  ]
+}
